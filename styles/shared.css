@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+      text-align: center;
+      color: green;
+      
+    }
+    
+      h1 {
+        font-family: ´oswald´,sans-serif;
+      }
+      p{
+        font-family: ´fira sans´, sans-serif;
+        
+      }
+      a{
+        font-family: ´fira sans´, sans-serif;
+        text-decoration: none;
+      color: black;
+      }
+      a:hover {
+        text-decoration: underline;
+      }
